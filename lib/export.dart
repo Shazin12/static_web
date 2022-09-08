@@ -1,0 +1,10 @@
+export 'package:flutter/material.dart';
+export 'package:premium_animation/config/const_widget.dart';
+export 'package:premium_animation/config/list_images.dart';
+export 'package:premium_animation/config/theme.dart';
+export 'package:premium_animation/page/fourth_page/fourth_page.dart';
+export 'package:premium_animation/page/second_page/second_page.dart';
+export 'package:premium_animation/page/third_page/third_page.dart';
+export 'package:premium_animation/provider/scroll_provider.dart';
+export 'package:flutter_remix/flutter_remix.dart';
+export 'package:provider/provider.dart';
